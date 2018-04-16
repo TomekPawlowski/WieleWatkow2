@@ -1,0 +1,6 @@
+c:\users\mojekonto\documents\visual studio 2015\Projects\WieleWatkow2\WieleWatkow2\bin\Debug\WieleWatkow2.exe.config
+c:\users\mojekonto\documents\visual studio 2015\Projects\WieleWatkow2\WieleWatkow2\bin\Debug\WieleWatkow2.exe
+c:\users\mojekonto\documents\visual studio 2015\Projects\WieleWatkow2\WieleWatkow2\bin\Debug\WieleWatkow2.pdb
+c:\users\mojekonto\documents\visual studio 2015\Projects\WieleWatkow2\WieleWatkow2\obj\Debug\WieleWatkow2.csprojResolveAssemblyReference.cache
+c:\users\mojekonto\documents\visual studio 2015\Projects\WieleWatkow2\WieleWatkow2\obj\Debug\WieleWatkow2.exe
+c:\users\mojekonto\documents\visual studio 2015\Projects\WieleWatkow2\WieleWatkow2\obj\Debug\WieleWatkow2.pdb
